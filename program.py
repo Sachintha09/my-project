@@ -1,3 +1,3 @@
-name = "sachi"
-print('Hello world')
-print(name)
+import hello
+hello.function()
+print(hello.name)
