@@ -1,5 +1,7 @@
 def function():
-    print("hello")
+    return "Hello"
 
 name = "Anne"
+
+
 prof = "Designer"
